@@ -22,11 +22,6 @@ Stack: Python, Streamlit, OpenAI (ou outro LLM).
 
 4. Cole um texto, clique em "Analisar (LLM)". Se não houver chave, o app usa fallback heurístico.
 
-## O que entregar ao professor
-- link para gravação curta (30s) mostrando o antes/depois.
-- PDF com: texto original, métricas, análise, sugestões e reescrita.
-- Link para o repositório GitHub com código + README.
-
 ## Prompt (usar em produção)
 (veja model.py → SYSTEM_PROMPT)
 
